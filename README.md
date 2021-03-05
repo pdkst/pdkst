@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-### 个人展示页正在进行测试
+# 个人展示页正在进行测试中。。。
+
+- 如果是想要脚本请转向[MonkeyScript](https://github.com/pdkst/MonkeyScript)
+- kotlin请转向[bilibili_danmu_kotlin_version](https://github.com/pdkst/bilibili_danmu_kotlin_version)
 
 <!--
 **pdkst/pdkst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
