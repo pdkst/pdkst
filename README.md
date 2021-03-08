@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdkst&repo=MonkeyScript)](https://github.com/pdkst/MonkeyScript)
 
 - kotlin请转向 [bilibili_danmu_kotlin_version](https://github.com/pdkst/bilibili_danmu_kotlin_version)
-- 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdkst&repo=bilibili_danmu_kotlin_version)](https://github.com/pdkst/bilibili_danmu_kotlin_version)
 
 - java请转向 [redissonlock-spring-boot-starter](https://github.com/pdkst/redissonlock-spring-boot-starter)（建设中）
