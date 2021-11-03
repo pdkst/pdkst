@@ -14,9 +14,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdkst&repo=bilibili_danmu_kotlin_version)](https://github.com/pdkst/bilibili_danmu_kotlin_version)
 
-- java请转向 [redissonlock-spring-boot-starter](https://github.com/pdkst/redissonlock-spring-boot-starter)（建设中）
+- java请转向 [redisson-spoon-spring-boot](https://github.com/pdkst/redisson-spoon-spring-boot)（建设中）
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdkst&repo=redissonlock-spring-boot-starter)](https://github.com/pdkst/redissonlock-spring-boot-starter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pdkst&repo=redisson-spoon-spring-boot)](https://github.com/pdkst/redisson-spoon-spring-boot)
 
 
 <!--
